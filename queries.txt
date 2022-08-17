@@ -1,0 +1,20 @@
+Q01	Deep learning in natural language processing (NLP)
+Q02	Hindu religion and their temples
+Q03	covid-19 pandemic vaccination
+Q04	data structures and algorithms in computer programming
+Q05	Infectious diseases prevention
+Q06	Kurukshetra war in Mahabharata
+Q07	literature, language and art
+Q08	unsupervised learning methods in machine learning
+Q09	quantum physics, quantum mechanics, quantum computing
+Q10	Rama Ravana war
+Q11	Object oriented computer programming
+Q12	Graph theory computer science
+Q13	human immune system
+Q14	unesco world heritage sites in India
+Q15	english fiction literature genre
+Q16	Figures of speech
+Q17	wildlife sanctuaries in India
+Q18	database management system concepts in computer science
+Q19	Np-hard np-complete problems
+Q20	Linux operating system
